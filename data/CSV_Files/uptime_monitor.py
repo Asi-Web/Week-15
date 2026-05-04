@@ -27,7 +27,7 @@ from email.message import EmailMessage
 # -----------------------------
 # SETTINGS YOU CAN CHANGE
 # -----------------------------
-URL_TO_CHECK = "https://example.com"
+URL_TO_CHECK = "www.kaggle.com"
 TIMEOUT_SECONDS = 5
 
 # Gmail example:
@@ -166,4 +166,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
